@@ -33,7 +33,6 @@ const NavContainer = styled.div`
 `
 
 class Navigation extends React.Component {
-
   render() {
     return (
       <NavContainer>
@@ -48,4 +47,4 @@ class Navigation extends React.Component {
   }
 }
 
-export default Navigation
+export default Navigation;

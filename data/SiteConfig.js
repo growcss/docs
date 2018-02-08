@@ -10,7 +10,6 @@ module.exports = {
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "1825356251115265", // FB Application ID for using app insights
   googleAnalyticsID: "UA-82450300-1 ", // GA tracking ID.
-  disqusShortname: "https-ericwindmill-github-io-gatsby-advanced-starter", // Disqus shortname.
   postDefaultCategoryID: "Tech", // Default category for posts.
   userName: "User", // Username to display in the author segment.
   userTwitter: "ericwindmill", // Optionally renders "Follow Me" in the UserInfo segment.
